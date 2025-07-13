@@ -3,17 +3,17 @@
 const chalk = require("chalk")
 const fs = require("fs")
 
-global.ownerNumber = ["263786115435@s.whatsapp.net"]
-global.botnumber = "263786115435"
+global.ownerNumber = ["2348108922068@s.whatsapp.net"]
+global.botnumber = "2348108922068"
 global.autotyping = false;
 global.autorecording = false;
-global.botnumber = ['263786115435']
-global.DevName = "iconic tech"
+global.botnumber = ['2348108922068']
+global.DevName = "anon"
 global.ownerName = "iconic tech"
 global.Botname = "Terminator QR MD"
 global.versionBot = "𝟏"
-global.packname = "iconic tech"
-global.author = "powered by iconic tech"
+global.packname = "Anon"
+global.author = "powered by Anom"
 global.thumb = fs.readFileSync("./TerminatorMedia/iconic.jpg")
 global.ThM = 'https://files.catbox.moe/jlrljf.jpg'
 let file = require.resolve(__filename) 
